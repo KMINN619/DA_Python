@@ -1,2 +1,2 @@
-# DA_Python_
+# DA_Python
 python study
